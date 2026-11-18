@@ -1,5 +1,11 @@
 # The World in One Day — 18 November 2026
 
+[![make.fun](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118)
+[![Rank](https://make.fun/badge/news-image-20261118/aliceskyfahriz-cyber/makefun-news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118)
+[![Reward](https://make.fun/badge/news-image-20261118/aliceskyfahriz-cyber/makefun-news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118)
+
+Entry for the [make.fun bounty: Sum up 18 November's world news in one image](https://make.fun/bounty/news-image-20261118).
+
 A program that generates a single summary image of the most important world
 news first published on 18 November 2026 (UTC).
 
